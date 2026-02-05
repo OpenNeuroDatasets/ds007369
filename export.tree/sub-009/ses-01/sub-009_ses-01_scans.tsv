@@ -1,0 +1,13 @@
+filename	acq_time
+anat/sub-009_ses-01_acq-T1wMPRvNav_run-1_T1w.nii.gz	1925-01-01T10:41:17.695000
+anat/sub-009_ses-01_acq-T1wMPRvNav_run-2_T1w.nii.gz	1925-01-01T10:41:17.695000
+fmap/sub-009_ses-01_acq-fMRIDistortionMapPA_dir-PA_epi.nii.gz	1925-01-01T10:48:05.527500
+fmap/sub-009_ses-01_acq-fMRIDistortionMapAP_dir-AP_epi.nii.gz	1925-01-01T10:48:21.062500
+func/sub-009_ses-01_task-localizer_dir-PA_run-1_bold.nii.gz	1925-01-01T10:49:06.822500
+func/sub-009_ses-01_task-localizer_dir-PA_run-2_bold.nii.gz	1925-01-01T10:56:42.502500
+func/sub-009_ses-01_task-main_dir-PA_run-1_bold.nii.gz	1925-01-01T11:04:40.057500
+func/sub-009_ses-01_task-main_dir-PA_run-2_bold.nii.gz	1925-01-01T11:15:33.420000
+func/sub-009_ses-01_task-main_dir-PA_run-3_bold.nii.gz	1925-01-01T11:25:55.607500
+func/sub-009_ses-01_task-main_dir-PA_run-4_bold.nii.gz	1925-01-01T11:36:33.267500
+func/sub-009_ses-01_task-main_dir-PA_run-5_bold.nii.gz	1925-01-01T11:46:58.542500
+func/sub-009_ses-01_task-main_dir-PA_run-6_bold.nii.gz	1925-01-01T11:57:20.220000
